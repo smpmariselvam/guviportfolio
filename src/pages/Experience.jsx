@@ -24,7 +24,7 @@ Conducted thorough testing and quality checks to ensure products met stringent s
       title: "Full Stack Developer",
       company: "Personal Projects",
       period: "2025 – Present",
-      location: "Remote",
+      location: "Self Driven",
       short:
         "Building full stack applications using React, Node.js and MongoDB.",
       full: `Designed and developed full stack web applications using React, Node.js, Express and MongoDB.
