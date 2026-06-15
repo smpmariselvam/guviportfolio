@@ -9,6 +9,8 @@ import About from "./pages/About";
 import Experience from "./pages/Experience";
 import Projects from "./pages/Projects";
 import Contact from "./pages/Contact";
+import Certifications from "./pages/Certifications";
+import { CgErase } from "react-icons/cg";
 
 function App() {
   const [showAbout, setShowAbout] = useState(false);
@@ -24,7 +26,9 @@ function App() {
       <About showAbout={showAbout} setShowAbout={setShowAbout} />
       <Experience />
       <Projects />
+      <Certifications />
       <Contact />
+      
     </>
   );
 }
