@@ -24,9 +24,10 @@ function App() {
 
       {/* Sliding About Overlay */}
       <About showAbout={showAbout} setShowAbout={setShowAbout} />
+      <Certifications />
       <Experience />
       <Projects />
-      <Certifications />
+      
       <Contact />
       
     </>
